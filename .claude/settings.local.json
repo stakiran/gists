@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh:*)",
+      "Bash(python .claude/skills/generate-gists/scripts/fetch_gist.py:*)",
+      "Bash(python .claude/skills/generate-gists/scripts/generate_index.py:*)",
+      "Bash(python .claude/skills/generate-gists/scripts/list_gist_ids.py:*)"
+    ],
+    "deny": [
+      "Bash(rm:*)",
+      "Bash(rm *)",
+      "Bash(gh repo delete:*)",
+      "Bash(gh gist delete:*)",
+      "Bash(gh release delete:*)",
+      "Bash(gh issue delete:*)",
+      "Bash(gh pr close:*)",
+      "Bash(gh repo archive:*)"
+    ]
+  }
+}
