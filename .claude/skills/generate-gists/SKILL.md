@@ -38,11 +38,15 @@ python .claude/skills/generate-gists/scripts/generate_index.py --init
 
 ### 4. index_entries.json の emoji と description を埋める
 
-`index_entries.json` を読み、空の `emoji` と `description` を埋める。
+`index_entries.json` を読み、空の `emoji` と `description` があるエントリを抽出する。
+件数が多い場合はバッチに分割し、Agent を並列で起動して処理する。
 
-- gist の内容（`docs/{gist_id}.md`）を読んで判断する
-- `emoji`: 内容を最もよく表す絵文字を1つ
-- `description`: 内容を日本語で簡潔に表現（description があればベースにする）
+各 Agent への指示:
+- 担当する gist ID のリストを渡す
+- 各 gist の内容（`docs/{gist_id}.md`）を読んで emoji と description を判断する
+  - `emoji`: 内容を最もよく表す絵文字を1つ
+  - `description`: 内容を日本語で簡潔に表現（description があればベースにする）
+- **Agent が `index_entries.json` を直接 Edit で書き換える**（シェル経由のデータ受け渡しを避けるため）
 
 ### 5. index.md の生成
 
