@@ -22,5 +22,1043 @@
     "created_at": "2026-03-28T22:38:49Z",
     "emoji": "🎲",
     "description": "一戦ごとに全回復するRPGの整理と設計論"
+  },
+  {
+    "id": "356c76eb41f7224cd561b1e8e4a3db1a",
+    "created_at": "2026-03-28T22:36:16Z",
+    "emoji": "🎮",
+    "description": "テキストベースRPG向けのモンスター表現方法の検討"
+  },
+  {
+    "id": "9165f7d3ffbdbf98af7fe210278ea18a",
+    "created_at": "2026-03-28T20:10:30Z",
+    "emoji": "🤖",
+    "description": "バイブコーディングの代償と人間に残る仕事の推測"
+  },
+  {
+    "id": "ee934efe1aa55efe765f7cd94117d786",
+    "created_at": "2026-03-28T19:53:53Z",
+    "emoji": "💡",
+    "description": "ネガティブエフォートの意味と不快を与える努力を避ける現象の考察"
+  },
+  {
+    "id": "33717bccda887c81600f837b4d6df10c",
+    "created_at": "2026-03-27T20:30:48Z",
+    "emoji": "🔧",
+    "description": "技法と道具の違いについての解説"
+  },
+  {
+    "id": "8753b9c8bee23044a9cf8ac2c8bdda5b",
+    "created_at": "2026-03-26T20:45:57Z",
+    "emoji": "🤝",
+    "description": "DevRelとして考えていることの整理と捉え直し"
+  },
+  {
+    "id": "0cd31410aea3d088f457ab7fb0260550",
+    "created_at": "2026-03-25T22:05:17Z",
+    "emoji": "🕹️",
+    "description": "LOL（League of Legends）を小学生にもわかるように解説"
+  },
+  {
+    "id": "ab5e9de063d2258858ecbf12f2cd0c58",
+    "created_at": "2026-03-24T20:25:51Z",
+    "emoji": "🌈",
+    "description": "LGBTとSOGIの違いと神経多様性への応用（IOOO提案）"
+  },
+  {
+    "id": "aab65fc5571170515e7cc0bcfacca75e",
+    "created_at": "2026-03-24T20:10:56Z",
+    "emoji": "🏳️‍🌈",
+    "description": "LGBTとSOGIの違いの解説"
+  },
+  {
+    "id": "c56670912bff2512d146a8653f6928c1",
+    "created_at": "2026-03-23T20:04:01Z",
+    "emoji": "📺",
+    "description": "テレビマンが転職市場で評価されない理由の考察"
+  },
+  {
+    "id": "495a2c715faf3ee4691c84048b8f0be0",
+    "created_at": "2026-03-22T20:58:53Z",
+    "emoji": "💬",
+    "description": "AI代理コミュニケーションのデイリーミーティング設計"
+  },
+  {
+    "id": "d71c949a09bafb0b39bf9848f8fcfcd0",
+    "created_at": "2026-03-22T20:40:32Z",
+    "emoji": "🤖",
+    "description": "AI代理コミュニケーション構想（AI同士に対話させるモデル）"
+  },
+  {
+    "id": "c56fdd76b92eed7bc7e52b0d72b038b5",
+    "created_at": "2026-03-22T20:23:57Z",
+    "emoji": "🎯",
+    "description": "current topic（今の話題）概念の有用性の解説"
+  },
+  {
+    "id": "5899ee77deceb8fbfb3c95dabc8507c7",
+    "created_at": "2026-03-22T20:19:10Z",
+    "emoji": "🗣️",
+    "description": "場を支配するテーマとファシリテーターの役割の考察"
+  },
+  {
+    "id": "b3dad65b0a9ce7b8b81e447e75a22f99",
+    "created_at": "2026-03-22T09:12:00Z",
+    "emoji": "❓",
+    "description": "『問いかけの作法』逆引きリファレンス"
+  },
+  {
+    "id": "68d90c0f4779a3b021a3a5fe39f3114c",
+    "created_at": "2026-03-22T08:49:32Z",
+    "emoji": "📖",
+    "description": "『問いかけの作法』の用語整理"
+  },
+  {
+    "id": "3343fb9212784eeedfc918ca501d44fd",
+    "created_at": "2026-03-22T00:18:10Z",
+    "emoji": "📚",
+    "description": "Kindleスクショベース自炊ツールの調査結果"
+  },
+  {
+    "id": "71c3b952b1396e1f1af1099019e45291",
+    "created_at": "2026-03-21T21:11:09Z",
+    "emoji": "🚀",
+    "description": "git add/commit/pushを一括実行するshipスキルの定義"
+  },
+  {
+    "id": "3fe60d47653ba5d49b1dde281b7002b5",
+    "created_at": "2026-03-21T20:01:55Z",
+    "emoji": "🛡️",
+    "description": "プロジェクトルート配下のみ削除を許可するsafe-rmスクリプト"
+  },
+  {
+    "id": "e71f7d80042a316636ac9ebb4a03e9b7",
+    "created_at": "2026-03-21T19:52:35Z",
+    "emoji": "☕",
+    "description": "午後のコーヒーが睡眠の質を下げる研究についての考察"
+  },
+  {
+    "id": "033424c1c4967001a2179598cab7d295",
+    "created_at": "2026-03-21T07:59:57Z",
+    "emoji": "🐄",
+    "description": "草食動物が草だけで強い体を作れる仕組みの解説"
+  },
+  {
+    "id": "af16a29b7da116dcb519acd69cc0cb57",
+    "created_at": "2026-03-21T02:56:47Z",
+    "emoji": "💻",
+    "description": "WindowsにNode.jsをインストールする手順ガイド"
+  },
+  {
+    "id": "3f44278b5e384fa6ba8690bb44247ed0",
+    "created_at": "2026-03-20T09:24:12Z",
+    "emoji": "⚔️",
+    "description": "Steamで遊べる無限ダンジョン探索アクション・ローグライク調査"
+  },
+  {
+    "id": "4570269f37a7c28109d78c9771715a88",
+    "created_at": "2026-03-19T21:39:56Z",
+    "emoji": "⚖️",
+    "description": "ASD（自閉スペクトラム症）への合理的配慮の法的整理"
+  },
+  {
+    "id": "00f7e74c3e3f02117bffe540ebb583df",
+    "created_at": "2026-03-19T20:22:04Z",
+    "emoji": "🪙",
+    "description": "100円硬貨不足を自販機業者への両替で解決した話の解説"
+  },
+  {
+    "id": "26aeac4567cdf74f81aad37473556bbf",
+    "created_at": "2026-03-18T20:07:52Z",
+    "emoji": "😶",
+    "description": "静かな退職を引き起こす上司と部下のすれ違いの考察"
+  },
+  {
+    "id": "ece9f04d947badcb93329541484f4b25",
+    "created_at": "2026-03-18T09:47:10Z",
+    "emoji": "🧩",
+    "description": "コラボレーションモジュールの道具化についての議論整理"
+  },
+  {
+    "id": "a0b7cf6399709c1af87991c3d6fe1600",
+    "created_at": "2026-03-18T09:35:13Z",
+    "emoji": "🗺️",
+    "description": "課題からコラボレーションモジュールを引く逆引き表"
+  },
+  {
+    "id": "8b55ee01131fa216273879bd0d6f632e",
+    "created_at": "2026-03-18T09:13:43Z",
+    "emoji": "🔌",
+    "description": "コラボレーションモジュールのMCP Server化の調査"
+  },
+  {
+    "id": "a5693f6aa58c6fc5ca0869db507337c0",
+    "created_at": "2026-03-18T09:09:08Z",
+    "emoji": "🛠️",
+    "description": "コラボレーションモジュールの道具化の方向性調査"
+  },
+  {
+    "id": "c7322ca89288db0493a613ae603a479d",
+    "created_at": "2026-03-17T20:37:18Z",
+    "emoji": "✅",
+    "description": "Tritaskウェブアプリ版の紹介（テキストベースタスク管理）"
+  },
+  {
+    "id": "3600c7bd0ff10c3f50a81b961b04a0d8",
+    "created_at": "2026-03-15T20:09:18Z",
+    "emoji": "🧠",
+    "description": "頭の回転が遅くなる最悪の習慣についての記事考察"
+  },
+  {
+    "id": "628762edb397f3f7aac76efe81fc6a9c",
+    "created_at": "2026-03-14T20:39:53Z",
+    "emoji": "⚠️",
+    "description": "有料記事の続きをAIに推定させることの法的リスク"
+  },
+  {
+    "id": "76b1f10e9b4bcaced5f068950bd96e36",
+    "created_at": "2026-03-13T22:03:36Z",
+    "emoji": "🎨",
+    "description": "デザイン思考についてのゆるトーク形式の解説"
+  },
+  {
+    "id": "12fb3aca847e321a29b3675cd8d82e8f",
+    "created_at": "2026-03-12T20:23:50Z",
+    "emoji": "📐",
+    "description": "12 Factor AX（AI Transformation）の原則提案"
+  },
+  {
+    "id": "7f6cc3ac6e28d2aedd4f46314654df3a",
+    "created_at": "2026-03-11T20:03:18Z",
+    "emoji": "📊",
+    "description": "昇格推薦枠から漏れたエンジニアの相談と解説"
+  },
+  {
+    "id": "81aeb5d3303fa59af69e6db47ff7971b",
+    "created_at": "2026-03-10T20:07:26Z",
+    "emoji": "🤖",
+    "description": "AI導入による人員削減企業の再雇用についての記事読解と推測"
+  },
+  {
+    "id": "a9958ee9d7057fa42413f5a021f6a6a4",
+    "created_at": "2026-03-08T21:21:03Z",
+    "emoji": "📊",
+    "description": "AIエージェント経済論文の要約と質疑応答"
+  },
+  {
+    "id": "a64834db9faa7234c8300e0c98460135",
+    "created_at": "2026-03-08T21:05:09Z",
+    "emoji": "🏢",
+    "description": "AIエージェントが企業規模・産業集中に与える影響の平易な解説"
+  },
+  {
+    "id": "a5ae4edf01471de0364f086c2ea319db",
+    "created_at": "2026-03-08T20:59:48Z",
+    "emoji": "📄",
+    "description": "AIエージェント経済論文(An Economy of AI Agents)の詳細要約"
+  },
+  {
+    "id": "4662cf1d35b5b875e385cdb52dc614da",
+    "created_at": "2026-03-08T20:44:20Z",
+    "emoji": "⚖️",
+    "description": "北海道芸術高校の性被害訴訟と小学館問題に関する原告メッセージ"
+  },
+  {
+    "id": "7472bd7546f178b3e83ec1b8bb42dfac",
+    "created_at": "2026-03-08T20:27:47Z",
+    "emoji": "🔢",
+    "description": "あみだくじの繰り返しにおけるサイクル(周期)の数学的工夫の解説"
+  },
+  {
+    "id": "7dac46577cb280ca056fa17fd9fb5cd8",
+    "created_at": "2026-03-08T03:53:19Z",
+    "emoji": "📝",
+    "description": "「方式」と「手法」の日本語における意味の違い"
+  },
+  {
+    "id": "74f849b0e1897c2e820c519c8c956aec",
+    "created_at": "2026-03-08T01:16:31Z",
+    "emoji": "🤔",
+    "description": "パターナリズムの是非と類型(ハード/ソフト/ナッジ)の整理"
+  },
+  {
+    "id": "1f63a324cf503a1880faa2c8d6056895",
+    "created_at": "2026-03-07T20:52:41Z",
+    "emoji": "🏠",
+    "description": "個人ウェブサイトのsfsp(単機能静的ページ)のアイデア集"
+  },
+  {
+    "id": "b0f0f0d37c61daeaf629010d4f832e10",
+    "created_at": "2026-03-06T21:07:39Z",
+    "emoji": "🧩",
+    "description": "frameworkとtemplateの違い、KPT振り返りを例にした解説"
+  },
+  {
+    "id": "5bbfe482f8f773d89f83b14b2b3d77ce",
+    "created_at": "2026-03-06T10:53:19Z",
+    "emoji": "🔐",
+    "description": ".envファイルのAIエージェント時代におけるセキュリティリスクと代替策"
+  },
+  {
+    "id": "e3160c5bd7f17bf916f959ec6dc34cae",
+    "created_at": "2026-03-06T06:39:23Z",
+    "emoji": "💳",
+    "description": "Claude Code導入後のMCC乗っ取り被害に関する用語解説"
+  },
+  {
+    "id": "8539ac7505f3a4958e7f7b0afd501b97",
+    "created_at": "2026-03-06T00:26:35Z",
+    "emoji": "🤝",
+    "description": "DevRelの捉え直しと開発者体験に関する考察(Zenn記事)"
+  },
+  {
+    "id": "8d8263be8b50837df7e18e4fed6d982f",
+    "created_at": "2026-03-05T19:55:32Z",
+    "emoji": "😶",
+    "description": "「静かな解雇」の実態と組織への悪影響についての記事読解"
+  },
+  {
+    "id": "5086808609262d748fcf7f809180167b",
+    "created_at": "2026-03-05T10:25:31Z",
+    "emoji": "💬",
+    "description": "DevRel記事へのフィードバック・議論の質疑応答"
+  },
+  {
+    "id": "8942448b2a5b4b792b5d424faae111ac",
+    "created_at": "2026-03-04T20:07:19Z",
+    "emoji": "🏭",
+    "description": "パナソニックの開発環境「文房具化」グループ横断改革の記事読解"
+  },
+  {
+    "id": "8c9c269a9a23db974fac2b5208c53fc6",
+    "created_at": "2026-03-04T20:01:39Z",
+    "emoji": "📉",
+    "description": "Anthropic CEO ダリオ・アモデイの「指数関数の終わり」警告についての記事"
+  },
+  {
+    "id": "67a9938b2b50c5ff3da18e9dcacdcaa2",
+    "created_at": "2026-03-04T10:02:32Z",
+    "emoji": "🔍",
+    "description": "アジャイル開発における「スパイク」の意味と使い方"
+  },
+  {
+    "id": "4c75944be70f2917e7a5af34822e69a5",
+    "created_at": "2026-03-04T09:54:13Z",
+    "emoji": "🗣️",
+    "description": "初対面では話せるが関係が続くと気まずくなるコミュ症の原理"
+  },
+  {
+    "id": "d20392a6289b2414dec55625aabb914f",
+    "created_at": "2026-03-04T07:30:35Z",
+    "emoji": "📁",
+    "description": "cmdmarkコマンド:ディレクトリブックマーク管理ツール(cmd用)"
+  },
+  {
+    "id": "e1b1f69e81cd194cbaf2cb013d10a594",
+    "created_at": "2026-03-03T22:26:02Z",
+    "emoji": "📢",
+    "description": "DevRelの方向性をC-で揃える(Community, Contents等)議論"
+  },
+  {
+    "id": "97f6b52d53becc6d9b72502cbb3988ec",
+    "created_at": "2026-02-28T20:17:32Z",
+    "emoji": "🦛",
+    "description": "HiPPO(最高給取りの意見)と「鶴の一声」の違い"
+  },
+  {
+    "id": "5659409879c7916353d9b537b52bb762",
+    "created_at": "2026-02-28T20:14:45Z",
+    "emoji": "📈",
+    "description": "予実管理の落とし穴とユニコーン企業の失敗要因(PM講演)"
+  },
+  {
+    "id": "7bcc0c57087c379cde5e13a3695ac98d",
+    "created_at": "2026-02-28T09:53:14Z",
+    "emoji": "🔬",
+    "description": "アジャイルのスパイク(調査タスク)の詳細解説と運用方法"
+  },
+  {
+    "id": "c034adad5ece4996ec7f24af2532efd0",
+    "created_at": "2026-02-28T03:07:12Z",
+    "emoji": "😊",
+    "description": "ギャラップのウェルビーイング5要素の平易な解説"
+  },
+  {
+    "id": "3846caec52118096bf75c0a785183cd0",
+    "created_at": "2026-02-27T22:32:35Z",
+    "emoji": "☕",
+    "description": "「雑談おじさん」の見えない貢献と職場のキーパーソンの再評価"
+  },
+  {
+    "id": "5391430502a7fc9cdf25c26bce821e37",
+    "created_at": "2026-02-26T03:28:57Z",
+    "emoji": "😴",
+    "description": "寝つきの悪さ(体勢探索ループ)への実践的な改善策"
+  },
+  {
+    "id": "99d1707fb4d5b6d779ca07e34d9ac21e",
+    "created_at": "2026-02-22T22:31:02Z",
+    "emoji": "💉",
+    "description": "DI以外の「〜Injection」概念の一覧(セキュリティ/設計)"
+  },
+  {
+    "id": "d58bd661c5db09c20c566fe7de4ab513",
+    "created_at": "2026-02-22T22:26:21Z",
+    "emoji": "🧱",
+    "description": "英語のblockとbrickの意味・用法の違い"
+  },
+  {
+    "id": "73f0e0e5a2a00550d4f0008252eaabf4",
+    "created_at": "2026-02-21T02:35:49Z",
+    "emoji": "📋",
+    "description": "リストは作った本人にしか価値が見えにくい理由の考察"
+  },
+  {
+    "id": "6a6f5fd5ac75f25f20a5c856470e930b",
+    "created_at": "2026-02-20T23:28:59Z",
+    "emoji": "🛡️",
+    "description": "心理的安全性(psychological safety)の意味と英語表現"
+  },
+  {
+    "id": "1d47441eb77153e09d02d900f536e323",
+    "created_at": "2026-02-20T22:53:39Z",
+    "emoji": "🗄️",
+    "description": "CAP定理の証明の有無と正しい理解の整理"
+  },
+  {
+    "id": "30da36b4ff1246cce4fb9d25c191a8bf",
+    "created_at": "2026-02-20T21:45:30Z",
+    "emoji": "🖼️",
+    "description": "知識表現のConcept As Template/Slot/Frameの違いの比較"
+  },
+  {
+    "id": "c92d85394e70ea2e886aa1db30286752",
+    "created_at": "2026-02-20T21:23:50Z",
+    "emoji": "🪟",
+    "description": "Concept As Frameの平易な解説(概念を判断の枠組みとして扱う)"
+  },
+  {
+    "id": "495c91d729f16b715cb602be109b0fab",
+    "created_at": "2026-02-20T21:23:15Z",
+    "emoji": "🎰",
+    "description": "Concept As Slotの平易な解説(概念を入れ物・枠として扱う)"
+  },
+  {
+    "id": "f0aaab75740cd2fc5197b1b557686eeb",
+    "created_at": "2026-02-20T20:42:46Z",
+    "emoji": "🤖",
+    "description": "12 Factor Agentsの内容妥当性を技術的観点から評価したレポート"
+  },
+  {
+    "id": "9af66093450a7cc61025cc5fa177f6d3",
+    "created_at": "2026-02-20T20:40:14Z",
+    "emoji": "🏭",
+    "description": "12 Factor FASD（完全自律ソフトウェア開発）の内容妥当性レポート"
+  },
+  {
+    "id": "d92cac21466dc1ceb6c038bef0534780",
+    "created_at": "2026-02-20T07:35:15Z",
+    "emoji": "💧",
+    "description": "目薬の正しい入れ方の手順とコツのQ&A"
+  },
+  {
+    "id": "51f47adb3d4a636138009e10f48e7427",
+    "created_at": "2026-02-19T21:01:34Z",
+    "emoji": "⚔️",
+    "description": "レヴィ＝ストロースとアルチュセールによる近親相姦禁忌と交換構造の哲学的討論"
+  },
+  {
+    "id": "99aeab143e5fecb3ec0050631ccf6962",
+    "created_at": "2026-02-19T08:24:55Z",
+    "emoji": "💰",
+    "description": "Time & Materials（T&M）契約の意味と特徴の解説Q&A"
+  },
+  {
+    "id": "e27381f8aed1a8f68bf362526c6e59a6",
+    "created_at": "2026-02-19T07:48:47Z",
+    "emoji": "🔌",
+    "description": "Tampermonkeyとローカル開発サーバーの通信フローとCosense Userscript反映手順"
+  },
+  {
+    "id": "875eec686eb051325ce13955b58ef294",
+    "created_at": "2026-02-19T00:45:59Z",
+    "emoji": "🗜️",
+    "description": "有名人名によるプロンプト情報圧縮（詠唱破棄）とLLM学習への反映可能性"
+  },
+  {
+    "id": "e36d3b70b9dbbd5d819de2eccc64d530",
+    "created_at": "2026-02-18T08:52:23Z",
+    "emoji": "🏛️",
+    "description": "レヴィ＝ストロースとバルトによる構造主義と文化多様性の哲学的討論"
+  },
+  {
+    "id": "4edaf480f846409cc2653dc443ced08e",
+    "created_at": "2026-02-18T07:28:54Z",
+    "emoji": "⚙️",
+    "description": "ドリブン・ドリブン：何とか駆動何とかに頼るワークスタイルの概念定義"
+  },
+  {
+    "id": "a4a40c900e231807455de55d09039504",
+    "created_at": "2026-02-18T07:10:35Z",
+    "emoji": "🐱",
+    "description": "Cat Driven Work（猫駆動労働）の概念をドリブンウェアとして考察するQ&A"
+  },
+  {
+    "id": "6d236b68f943ba58f7d2a6751ab22fcd",
+    "created_at": "2026-02-18T03:54:05Z",
+    "emoji": "🚶",
+    "description": "散歩を始めるハードルの高さに名前をつける試み（散歩摩擦・walk friction等）"
+  },
+  {
+    "id": "a6930bca62d3072d6bf22e57cf47fabf",
+    "created_at": "2026-02-18T03:34:41Z",
+    "emoji": "🗣️",
+    "description": "非同期コミュニケーションでの明示的な意思表示プロトコルの命名検討"
+  },
+  {
+    "id": "7baf3e27eb2c55444911fbc45b7d3d60",
+    "created_at": "2026-02-17T20:47:20Z",
+    "emoji": "🛡️",
+    "description": "Asset-driven（資産起点）のプロダクトセキュリティ設計の解説Q&A"
+  },
+  {
+    "id": "a903349f8996fd0fd769d3eeaeeff303",
+    "created_at": "2026-02-17T20:14:23Z",
+    "emoji": "🔓",
+    "description": "クライアントサイドパストラバーサルによるSelf XSSからXSSへの昇格手法の解説"
+  },
+  {
+    "id": "e868242200b957d0f4b1e51fe63bffeb",
+    "created_at": "2026-02-17T20:05:51Z",
+    "emoji": "🌐",
+    "description": "クライアントサイドパストラバーサルの概要と対策"
+  },
+  {
+    "id": "d59a1e13287712250a9db2839d944d24",
+    "created_at": "2026-02-17T20:04:52Z",
+    "emoji": "⌨️",
+    "description": "AHK v1.1でウィンドウ切り替え時にIMEをオフにするスクリプト"
+  },
+  {
+    "id": "4e67b50e99173b2a3336d25aede001d3",
+    "created_at": "2026-02-16T23:39:23Z",
+    "emoji": "👤",
+    "description": "Flatt Security CCOのキャリアと事業シナジー構築に関するインタビュー記事の読解"
+  },
+  {
+    "id": "1d99569213f4d38c731b4df1e07c3831",
+    "created_at": "2026-02-16T08:22:55Z",
+    "emoji": "😤",
+    "description": "annoylogue：イライラ時の独り言をセルフモニタリング指標として活用する概念"
+  },
+  {
+    "id": "0b66c1ede9c87ed24438763e8379a30c",
+    "created_at": "2026-02-15T20:33:09Z",
+    "emoji": "📋",
+    "description": "Personal Context Management（PCM）：作業文脈の自己管理手法の定義"
+  },
+  {
+    "id": "b54c0e91cc0227bfad27b29bc9e5b461",
+    "created_at": "2026-02-15T07:12:44Z",
+    "emoji": "📦",
+    "description": "中間成果物と最終成果物の英語表現、および12 Factor FASDの概要Q&A"
+  },
+  {
+    "id": "2c81c98d7e939ab3b36b26e1f71b7636",
+    "created_at": "2026-02-15T03:00:56Z",
+    "emoji": "🧑‍🤝‍🧑",
+    "description": "ソロワークの概念とチームワークの対義語に関するQ&A"
+  },
+  {
+    "id": "d93a054aa1f1348000bedfa0f1fac380",
+    "created_at": "2026-02-14T21:52:55Z",
+    "emoji": "💬",
+    "description": "GitHubリポジトリを使った非同期議論の仕組みの設計と運用方法"
+  },
+  {
+    "id": "e91a2ec97e1c104662de407bb81eb608",
+    "created_at": "2026-02-14T21:25:13Z",
+    "emoji": "🤖",
+    "description": "AIが要件定義から自走する開発スタイルの命名検討（FASD等）"
+  },
+  {
+    "id": "238b4b8975cfc4e21e59c5242fc71d13",
+    "created_at": "2026-02-14T06:43:25Z",
+    "emoji": "🤝",
+    "description": "ソフトスキルコンサルティングの意味と従来の人材開発との比較"
+  },
+  {
+    "id": "0ad0060fca36982f7a56a740d4d7f2af",
+    "created_at": "2026-02-14T00:16:47Z",
+    "emoji": "📚",
+    "description": "コラボレーションモジュールの浅い目次索引（概念カタログ一覧）"
+  },
+  {
+    "id": "e0797ab74c24d5b8587c32b902de497f",
+    "created_at": "2026-02-14T00:11:44Z",
+    "emoji": "📖",
+    "description": "コラボレーションモジュールの要約付き目次索引"
+  },
+  {
+    "id": "4f547e1f765ae23f48c371b5e8f45b54",
+    "created_at": "2026-02-13T23:57:02Z",
+    "emoji": "📝",
+    "description": "コラボレーションモジュールの3行要約目次索引"
+  },
+  {
+    "id": "9074eea08e2910d5b81e64873bcc02ce",
+    "created_at": "2026-02-13T23:56:54Z",
+    "emoji": "🛠️",
+    "description": "AIエージェント用にコラボレーションモジュール目次を生成するindexerスキル定義"
+  },
+  {
+    "id": "61e1c18e8ddb7a966dfaeb422cb7bbf1",
+    "created_at": "2026-02-13T20:32:18Z",
+    "emoji": "🔄",
+    "description": "「流用」に相当する英語表現（reuse・repurpose・adapt等）のQ&A"
+  },
+  {
+    "id": "1d69061362c5b4b72ec02696d7c7d9fd",
+    "created_at": "2026-02-13T10:39:03Z",
+    "emoji": "🍝",
+    "description": "サイゼリヤの正しい表記と覚え方のQ&A"
+  },
+  {
+    "id": "2aec4336db5fa3bbf8b5954576806cb8",
+    "created_at": "2026-02-13T10:32:51Z",
+    "emoji": "🧩",
+    "description": "疎結合設計の普遍的適用可能性に関する考察Q&A"
+  },
+  {
+    "id": "2009e10cb18207cae97378d976ed7a0b",
+    "created_at": "2026-02-13T10:24:35Z",
+    "emoji": "📁",
+    "description": "repositorize（リポジトリ化する）という造語の意味と使い方のQ&A"
+  },
+  {
+    "id": "7537af227c7d6d97f380a31e2380410e",
+    "created_at": "2026-02-13T09:44:49Z",
+    "emoji": "✍️",
+    "description": "技術ブログ編集長・DevRel募集ツイートの読解と解説"
+  },
+  {
+    "id": "7be34b39b9e86cbde95af4e7516695be",
+    "created_at": "2026-02-11T01:54:41Z",
+    "emoji": "💼",
+    "description": "careerの英語ニュアンスと「仕事のあり方」を表す英語表現の検討"
+  },
+  {
+    "id": "c34d7feaccad70cec90b88fcc980597f",
+    "created_at": "2026-02-11T01:50:32Z",
+    "emoji": "🎯",
+    "description": "ドメイン適応力の概念定義と英語名の検討（Domain Adaptability等）"
+  },
+  {
+    "id": "b840303e90d72ad4a305e732ce9cc460",
+    "created_at": "2026-02-10T23:33:42Z",
+    "emoji": "🍚",
+    "description": "食材を5つ無限に生成できるなら何を選ぶかをAIに考えさせるプロンプト"
+  },
+  {
+    "id": "95b911f5885f1c5cd1034d383471e092",
+    "created_at": "2026-02-10T07:54:29Z",
+    "emoji": "👁️",
+    "description": "inotifywaitによるファイル監視の仕組みの解説"
+  },
+  {
+    "id": "fe29c3624aef30e5485075eb9508d52e",
+    "created_at": "2026-02-10T07:50:46Z",
+    "emoji": "✍️",
+    "description": "書いたものが読まれるリスクの概念と英語での命名検討"
+  },
+  {
+    "id": "d459b65a8ae64f7bd85d314aab60f4f2",
+    "created_at": "2026-02-09T20:52:57Z",
+    "emoji": "📖",
+    "description": "慣習・慣例・慣行の違いの解説"
+  },
+  {
+    "id": "7ec96a8b6821567cb3410db3a8532b90",
+    "created_at": "2026-02-08T04:38:43Z",
+    "emoji": "🧑‍💻",
+    "description": "collaboration vs solo workの対比表現の検討"
+  },
+  {
+    "id": "379f77dcb494dbe673843c950158aaa4",
+    "created_at": "2026-02-08T04:35:41Z",
+    "emoji": "🤝",
+    "description": "collaborationの対義語候補の一覧"
+  },
+  {
+    "id": "acdfbba426230f91feef846f9b427a43",
+    "created_at": "2026-02-08T04:27:42Z",
+    "emoji": "🎨",
+    "description": "個人の創作活動をcから始まる英単語で表現する検討"
+  },
+  {
+    "id": "0c56af796cc527c62061abd15b124f43",
+    "created_at": "2026-02-07T21:08:09Z",
+    "emoji": "🌍",
+    "description": "開発経済学における構造主義と新古典派の対立の解説"
+  },
+  {
+    "id": "b36633a7c43640568eee5e7306b3932d",
+    "created_at": "2026-02-07T20:42:51Z",
+    "emoji": "🤖",
+    "description": "AIに拾わせるためのナレッジ記述活動の命名検討"
+  },
+  {
+    "id": "9da5be9d80763b45fe2fa4fd696130a2",
+    "created_at": "2026-02-07T07:55:19Z",
+    "emoji": "⚙️",
+    "description": "contextware・conceptwareなど-wareの意味の解説"
+  },
+  {
+    "id": "65f642c0682fe08bad153ee1160a4709",
+    "created_at": "2026-02-06T22:13:07Z",
+    "emoji": "📊",
+    "description": "コラボレーション特性を評価する8つの軸の定義"
+  },
+  {
+    "id": "e1362373625cf4b762d1c9b69a970d1f",
+    "created_at": "2026-02-06T20:31:32Z",
+    "emoji": "🏢",
+    "description": "organizational traitsとcharacteristicsの違いの解説"
+  },
+  {
+    "id": "bebf3ee888646b6b2de84ce5c760e1cf",
+    "created_at": "2026-02-06T08:14:35Z",
+    "emoji": "🔓",
+    "description": "拘束の対義語（非拘束・自由など）の検討"
+  },
+  {
+    "id": "13a371fba10be0e5b447ae4fb7777ee6",
+    "created_at": "2026-02-05T20:37:21Z",
+    "emoji": "🏠",
+    "description": "ホフィス（ホームオフィス）のルームタイプとゾーン設計"
+  },
+  {
+    "id": "62d03e942aa8f19911cc2b8638904ba2",
+    "created_at": "2026-02-05T09:45:58Z",
+    "emoji": "🔀",
+    "description": "Independent Parallel：複数人が同テーマに個別で取り組むスタイル"
+  },
+  {
+    "id": "6f06f395e101cf2365c852fd46f06afc",
+    "created_at": "2026-02-05T09:45:41Z",
+    "emoji": "⚖️",
+    "description": "チームの意思決定アーキテクチャ（Star/Solo/Consent等）の定義"
+  },
+  {
+    "id": "ab9d16c59057050f96a3003508a12269",
+    "created_at": "2026-02-04T21:40:28Z",
+    "emoji": "🔨",
+    "description": "craftを使った職人性の英語表現の検討"
+  },
+  {
+    "id": "702954e75e09c56de95b93748d1b0df5",
+    "created_at": "2026-02-04T20:40:00Z",
+    "emoji": "💾",
+    "description": "Solid思想を簡略化したストレージサービスの設計案"
+  },
+  {
+    "id": "5fac93ff2d371d95481ce0fe68202c6d",
+    "created_at": "2026-02-04T20:33:36Z",
+    "emoji": "💾",
+    "description": "Solidストレージの最小設計案（secret key + storage name）"
+  },
+  {
+    "id": "59dfc54bb3b5020959094c4f51aff67e",
+    "created_at": "2026-02-04T20:22:43Z",
+    "emoji": "📦",
+    "description": "Solid/LDO/Reactでマイクロブログアプリを構築するチュートリアル"
+  },
+  {
+    "id": "8c28abb45da42e545dc0c77cadb3a1b2",
+    "created_at": "2026-02-04T09:29:25Z",
+    "emoji": "🧠",
+    "description": "認知的コンテキスト特性（CCT）：認知能力の4軸評価モデル"
+  },
+  {
+    "id": "c22a90502ae528a6f434f54e4e37a076",
+    "created_at": "2026-02-04T09:10:09Z",
+    "emoji": "💬",
+    "description": "ペアコミュニケーション：二人一端末での読み書きコミュニケーション"
+  },
+  {
+    "id": "52319f04097c178ff6ae937fa0f06a46",
+    "created_at": "2026-02-04T04:32:32Z",
+    "emoji": "🎭",
+    "description": "合意形成主義と儀式主義を合わせた造語の検討"
+  },
+  {
+    "id": "dd921a3e2882561c7cfee738607655db",
+    "created_at": "2026-02-03T20:35:40Z",
+    "emoji": "🛡️",
+    "description": "コンプライアンスフレームワーク（ISO27001/GDPR等）の概要"
+  },
+  {
+    "id": "9bfcf4d7a963267c613ea2d0891a1b70",
+    "created_at": "2026-02-03T20:24:15Z",
+    "emoji": "🔍",
+    "description": "IAST（対話型アプリケーションセキュリティテスト）の解説"
+  },
+  {
+    "id": "8a1097add8ebb14cb20fea2f4986645c",
+    "created_at": "2026-02-03T05:21:17Z",
+    "emoji": "👹",
+    "description": "節分と恵方巻の関係の解説"
+  },
+  {
+    "id": "1248dcff33c8f84fab05bb5a3bd63390",
+    "created_at": "2026-02-02T20:52:38Z",
+    "emoji": "🚫",
+    "description": "No XXXX Day（会議なし日等）の網羅的な一覧"
+  },
+  {
+    "id": "41683009bb37b2dbb6e95aa5f8396bcd",
+    "created_at": "2026-02-02T20:52:28Z",
+    "emoji": "📋",
+    "description": "コラボレーションモジュールの具体例を大量生成するプロンプト"
+  },
+  {
+    "id": "4de8c8d4c6b230d38163e34bcdf767f7",
+    "created_at": "2026-02-02T20:20:31Z",
+    "emoji": "📦",
+    "description": "Vercel Sandboxによる安全なコード実行環境の紹介"
+  },
+  {
+    "id": "9e453f71eb5df4d642d892a8aad93ac9",
+    "created_at": "2026-02-01T21:03:03Z",
+    "emoji": "🚫",
+    "description": "No XXXX Dayをカテゴリ別に整理した一覧"
+  },
+  {
+    "id": "5c00ea7b25eb102e08526a78b07b8831",
+    "created_at": "2026-02-01T21:01:46Z",
+    "emoji": "🚫",
+    "description": "No XXXX Day の具体例一覧（会議・メール・チャット等）"
+  },
+  {
+    "id": "228e500ed4c2d57826c373b99a65bc71",
+    "created_at": "2026-02-01T20:57:55Z",
+    "emoji": "🚫",
+    "description": "No XXXX Day（NXD）のチーム運用アイデア集"
+  },
+  {
+    "id": "6513d2b80ffd19109100b2801f3ec6c0",
+    "created_at": "2026-02-01T09:21:21Z",
+    "emoji": "📱",
+    "description": "複数人で一つのデバイスを使ったテキスト対話の名称検討"
+  },
+  {
+    "id": "5b45e7456086be9e5773b309fd0c07c1",
+    "created_at": "2026-02-01T05:01:51Z",
+    "emoji": "🐕",
+    "description": "Claude Codeのドッグフーディング文化についてのメモ"
+  },
+  {
+    "id": "313d1897b0244e3e85704e5607a6c61c",
+    "created_at": "2026-02-01T03:48:35Z",
+    "emoji": "🧩",
+    "description": "concept + context = cで始まる造語の検討"
+  },
+  {
+    "id": "98d3bcffc557fe9154de636b4f8d08ba",
+    "created_at": "2026-02-01T03:41:01Z",
+    "emoji": "💬",
+    "description": "チャットで複数話題を送ると最後の話題にしか返信されない問題についての考察"
+  },
+  {
+    "id": "f47736e414c0d9f2aa906a200417b992",
+    "created_at": "2026-02-01T02:47:46Z",
+    "emoji": "🏨",
+    "description": "ホフィス（Hoffice）：ホテル型オフィスの概念設計と原則の定義"
+  },
+  {
+    "id": "3ddff87aa4f78eb813cb704d7473928c",
+    "created_at": "2026-02-01T02:39:03Z",
+    "emoji": "🏨",
+    "description": "ホフィス（Hoffice）：ホテル型オフィスの概念設計と原則の定義（同一内容）"
+  },
+  {
+    "id": "89c6798d5a6ad08ef3b2962c8c86a265",
+    "created_at": "2026-02-01T02:37:51Z",
+    "emoji": "🏨",
+    "description": "ホフィス（Hoffice）：ホテル型オフィスの概念設計と原則の定義（同一内容）"
+  },
+  {
+    "id": "00db927ccb77a4a78f55179648ac0da6",
+    "created_at": "2026-02-01T02:27:36Z",
+    "emoji": "📋",
+    "description": "クリップボードの内容からGistを作成するバッチ＆AutoHotkeyスクリプト"
+  },
+  {
+    "id": "3eacba2968424743d52c46d3c1c3814f",
+    "created_at": "2026-02-01T02:09:09Z",
+    "emoji": "🎨",
+    "description": "芸術作品におけるクリエイターの意図の有無についての考察"
+  },
+  {
+    "id": "49051c8240cd4a4a9b5996b156dc15c0",
+    "created_at": "2026-01-31T21:40:01Z",
+    "emoji": "🔄",
+    "description": "振り返りの成果物に「retrout（レトロウト）」と名付ける造語の検討"
+  },
+  {
+    "id": "e1002a33e67a4e1a3c4e2c9e9157bd0d",
+    "created_at": "2026-01-31T05:14:37Z",
+    "emoji": "📦",
+    "description": "Rust製CLIがnpmで配布される仕組みの解説（Codex CLIの例）"
+  },
+  {
+    "id": "74131fdb4fc822a26679c9ae9782257c",
+    "created_at": "2026-01-31T04:58:07Z",
+    "emoji": "📖",
+    "description": "singletonの語源と-ton接尾辞の意味の解説"
+  },
+  {
+    "id": "9231a907f3f9acde26676d9a759d481d",
+    "created_at": "2026-01-31T04:17:47Z",
+    "emoji": "🤖",
+    "description": "ChatGPT 4oの新システムプロンプトの日本語解説とkeep4o問題"
+  },
+  {
+    "id": "d6d39bcc4089e13f79f039d55ee99c3c",
+    "created_at": "2026-01-31T03:14:21Z",
+    "emoji": "🐍",
+    "description": "クリップボードからGistを作成するPythonスクリプト"
+  },
+  {
+    "id": "3ba3eefac45c5eb7512066524b27feb0",
+    "created_at": "2026-01-31T03:13:44Z",
+    "emoji": "🏢",
+    "description": "ホフィス概念の有益性についてのQ&A（集中・プライバシー・可変性の利点）"
+  },
+  {
+    "id": "4250e8eac4128e83f3790f32228f0656",
+    "created_at": "2025-08-02T00:33:47Z",
+    "emoji": "🔒",
+    "description": "クロコン（クローズド・コンプレックス）：閉鎖的コミュニケーション傾向への造語提案"
+  },
+  {
+    "id": "0dd3c86d1b64dfdd65d624fc9a891e8d",
+    "created_at": "2025-02-15T22:06:22Z",
+    "emoji": "🤧",
+    "description": "起床後の鼻ムズムズの原因調査（花粉症以外の要因の考察）"
+  },
+  {
+    "id": "0857fbf2be7e742b4b715c159673ac9f",
+    "created_at": "2025-02-15T22:04:02Z",
+    "emoji": "🔗",
+    "description": "GistのURL挙動テスト"
+  },
+  {
+    "id": "14ebc7624ea541e260ed2eb7de350309",
+    "created_at": "2021-08-28T01:00:38Z",
+    "emoji": "🔑",
+    "description": "JSON形式の名前とキー情報のメモ"
+  },
+  {
+    "id": "d0ea61f285280cddb18e8e84239f7b8b",
+    "created_at": "2019-08-19T10:09:25Z",
+    "emoji": "🎨",
+    "description": "テキストエディタのカラーセット設定（16進数カラーコード）"
+  },
+  {
+    "id": "d0748aabf6a77d5899c42c519e3a2c0c",
+    "created_at": "2019-02-21T08:20:19Z",
+    "emoji": "🖼️",
+    "description": "Gist内での画像表示方法とリンクの挙動テスト"
+  },
+  {
+    "id": "754c9b21a9a91cddc06bce5a5f5a65a6",
+    "created_at": "2017-09-12T13:32:56Z",
+    "emoji": "💼",
+    "description": "イギリスの労働事情とノマドワーカーの厳しさについての読書感想"
+  },
+  {
+    "id": "8485497e7fb0bc8073b645581e14a89c",
+    "created_at": "2017-09-12T13:30:43Z",
+    "emoji": "🚀",
+    "description": "大企業におけるリーンスタートアップ型新規事業の課題と感想"
+  },
+  {
+    "id": "cd40f017500b7eee9230501f9a5900c3",
+    "created_at": "2017-09-12T13:26:40Z",
+    "emoji": "🛡️",
+    "description": "AVGアンチウイルスがフォーカスを奪う問題の調査と対処（結局アンインストール）"
+  },
+  {
+    "id": "93b8a35922e42e35a4a4c97487ab83d7",
+    "created_at": "2017-09-12T13:25:04Z",
+    "emoji": "📂",
+    "description": "Pythonでファイル・フォルダの最終更新時間を監視するツールの調査"
+  },
+  {
+    "id": "205450e05e1b2d801e5b8eef5fed21cc",
+    "created_at": "2017-09-12T13:24:06Z",
+    "emoji": "💻",
+    "description": "32bitと64bitの違いをわかりやすく解説"
+  },
+  {
+    "id": "a8565a247638d63329b500bfa3bd563d",
+    "created_at": "2017-09-05T12:18:49Z",
+    "emoji": "⌨️",
+    "description": "Text Expansion（TE）の仕組み・用語・設計の解説"
+  },
+  {
+    "id": "a6cf6c01afb409ce9491a50d78b2025d",
+    "created_at": "2017-09-05T12:17:16Z",
+    "emoji": "⚡",
+    "description": "TEでスピードワープロを実現する検討（SWTE構想）"
+  },
+  {
+    "id": "ab47411c1767e4e26b561925dbc2ddb3",
+    "created_at": "2017-09-04T12:04:15Z",
+    "emoji": "🔧",
+    "description": "Git push時にGitHub Loginダイアログが出る問題の解決方法"
+  },
+  {
+    "id": "3b358e7e4d47e33ec9d167b88d564222",
+    "created_at": "2017-09-04T11:24:37Z",
+    "emoji": "📝",
+    "description": "GitHub Gistをブログとして使う投稿フローの設計"
+  },
+  {
+    "id": "6d625bff89bf24c55ba213144ebf52b5",
+    "created_at": "2017-09-04T11:10:54Z",
+    "emoji": "🎙️",
+    "description": "PCでの録音ラッパーツール（sr）の開発背景と使い方"
+  },
+  {
+    "id": "7a4d8eca9525fa53a5dc048f7ff022a7",
+    "created_at": "2017-09-04T10:21:50Z",
+    "emoji": "🔍",
+    "description": "Windowsサービス情報検索ツール（scw）の紹介"
+  },
+  {
+    "id": "6ccec21ea13dc8966bd13f69cbf454ed",
+    "created_at": "2017-09-03T11:57:49Z",
+    "emoji": "📄",
+    "description": "テスト用の本文のみのGist"
+  },
+  {
+    "id": "efe25551c8db99658283ec36b986c14f",
+    "created_at": "2017-09-03T10:41:22Z",
+    "emoji": "❓",
+    "description": "Gistファイル名にタイトルを含めるべきかの検討"
+  },
+  {
+    "id": "5b668960b56a1f257c2234a3be205804",
+    "created_at": "2017-09-03T09:56:24Z",
+    "emoji": "🔗",
+    "description": "GitHub Gistのパーマリンク・編集画面・複数ファイルの挙動調査"
+  },
+  {
+    "id": "10ee1b269289de9733791b262be2c1f8",
+    "created_at": "2017-09-03T09:49:02Z",
+    "emoji": "✍️",
+    "description": "GitHub Gistでブログを実現するアイデアと運用検討"
   }
 ]
