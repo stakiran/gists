@@ -11,7 +11,7 @@ import sys
 def fetch_and_save(gist_id, docs_dir="docs"):
     result = subprocess.run(
         ["gh", "api", f"gists/{gist_id}", "--jq", ".files | to_entries[0].value.content"],
-        capture_output=True, text=True, check=True,
+        capture_output=True, text=True, check=True, encoding="utf-8",
     )
     content = result.stdout
     os.makedirs(docs_dir, exist_ok=True)

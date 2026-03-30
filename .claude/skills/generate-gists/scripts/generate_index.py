@@ -24,7 +24,7 @@ def get_gist_meta_from_api():
         result = subprocess.run(
             ["gh", "api", f"users/stakiran/gists?per_page=100&page={page}",
              "--jq", '[.[] | {id, description, created_at}]'],
-            capture_output=True, text=True, check=True,
+            capture_output=True, text=True, check=True, encoding="utf-8",
         )
         output = result.stdout.strip()
         if not output or output == "[]":
