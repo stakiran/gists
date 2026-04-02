@@ -1,5 +1,29 @@
 [
   {
+    "id": "ab26b1522f1b6cc1d658cfc04c6623d4",
+    "created_at": "2026-04-01T23:02:03Z",
+    "emoji": "🍛",
+    "description": "毎日カレー生活の材料・作り方・塩分計算メモ"
+  },
+  {
+    "id": "96ed6cf4595e8a1507fccaafd7490895",
+    "created_at": "2026-04-01T20:05:53Z",
+    "emoji": "🧠",
+    "description": "若手メンタル不調と心理的安全性に関する有料記事の続きを推測"
+  },
+  {
+    "id": "709bfd3f074293f531526e269aabeab4",
+    "created_at": "2026-03-31T23:19:51Z",
+    "emoji": "🗺️",
+    "description": "自作概念を既存知に位置づける行為ラベル「map it」の命名整理"
+  },
+  {
+    "id": "4cf9ca01a3f17d9ae37878cf9056350a",
+    "created_at": "2026-03-31T23:12:02Z",
+    "emoji": "🚧",
+    "description": "境界盲(Boundary Blindness)の概念定義と実践的意義の整理"
+  },
+  {
     "id": "1ab49e9b748abaf18c021ea2bc523484",
     "created_at": "2026-03-30T09:28:40Z",
     "emoji": "🤝",
