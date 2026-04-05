@@ -1,5 +1,47 @@
 [
   {
+    "id": "1b0caee8953b30387df25fff59167813",
+    "created_at": "2026-04-04T02:59:51Z",
+    "emoji": "🏃",
+    "description": "ASDにおける「過度な運動」は擬態か補填かの考察"
+  },
+  {
+    "id": "a658fdaa9277158bf4dcec4facef2bf8",
+    "created_at": "2026-04-04T01:33:59Z",
+    "emoji": "📚",
+    "description": "learnxinyminutes-docsリポジトリの概要とLLM時代における優位性の考察"
+  },
+  {
+    "id": "18c10ff59f6d110d12fd20837bc1ea5d",
+    "created_at": "2026-04-04T01:23:43Z",
+    "emoji": "📖",
+    "description": "tldr-pagesのページフォーマットとテンプレート構造の解説"
+  },
+  {
+    "id": "12c9408f4be947f21ac3ea9b1e6982d4",
+    "created_at": "2026-04-03T10:02:21Z",
+    "emoji": "🤖",
+    "description": "HOASTフレームワーク（Tool/Skill/Agent/Orchestration/Harness）の具体例集"
+  },
+  {
+    "id": "7cc15b213214cc97e23899bb94a10e75",
+    "created_at": "2026-04-03T05:23:26Z",
+    "emoji": "🧝",
+    "description": "ファンタジーキャラ「ヤンデ・エルドラ」のロールプレイ用プロンプト（性格・口調・関係性などの設定集）"
+  },
+  {
+    "id": "e5b7c98f0ec8366fc7396a2a7d9dbcb3",
+    "created_at": "2026-04-03T05:17:32Z",
+    "emoji": "🧠",
+    "description": "GTDのAI利活用版の命名ブレスト（Plain Brainなど候補を検討）"
+  },
+  {
+    "id": "75a86da1b40fdc927fbc594061e61579",
+    "created_at": "2026-04-03T00:21:50Z",
+    "emoji": "💬",
+    "description": "シャイとコミュ障の違いについてのQ&A（性格と対人困難の区別）"
+  },
+  {
     "id": "c16693684dd3b4818b97567975618224",
     "created_at": "2026-04-02T20:51:27Z",
     "emoji": "📊",
