@@ -1,5 +1,83 @@
 [
   {
+    "id": "3dc84d0aafdb89d8f42a6b94b43f1a5b",
+    "created_at": "2026-04-09T21:16:09Z",
+    "emoji": "🤖",
+    "description": "概念創造におけるGPT-5.4 ThinkingとOpus 4.6の使い分け"
+  },
+  {
+    "id": "612913f332444fbaf5fd6fc148f578a5",
+    "created_at": "2026-04-09T21:15:40Z",
+    "emoji": "🔍",
+    "description": "Claude Opus 4.6 vs GPT-5.4 Thinkingのシステムプロンプト比較分析"
+  },
+  {
+    "id": "58733f97514123b72fc907a2ab6d5dfe",
+    "created_at": "2026-04-09T03:03:52Z",
+    "emoji": "🔎",
+    "description": "求人スキャン対象サイトとフィルタリング手法のメモ"
+  },
+  {
+    "id": "a617c96ac5f6f5cbd56b46fe2421f9e6",
+    "created_at": "2026-04-09T02:56:11Z",
+    "emoji": "💼",
+    "description": "career-opsの概要：AIを用いた求職者向け求人スクリーニングツール"
+  },
+  {
+    "id": "4b94d33f5fa62ef9a1cdc59d6e8b1942",
+    "created_at": "2026-04-08T21:11:49Z",
+    "emoji": "🛡️",
+    "description": "Engineering Guardian：エンジニアのソロ探索環境を守る新しい役割の提案"
+  },
+  {
+    "id": "295f5ccf8b118181d5482a0c4e4140b4",
+    "created_at": "2026-04-08T21:06:51Z",
+    "emoji": "📝",
+    "description": "造語とは何か：造語・枠組み名・独自定義語の区別と判断基準"
+  },
+  {
+    "id": "fcaec175984730dbdfce8ca0d961efbb",
+    "created_at": "2026-04-08T09:31:50Z",
+    "emoji": "🌊",
+    "description": "動詞surfaceのニュアンスと「暗黙の言語化・浮上」としての用法"
+  },
+  {
+    "id": "083851e5071c5a5d1bfa44e54693fc3f",
+    "created_at": "2026-04-08T05:06:56Z",
+    "emoji": "📖",
+    "description": "コンテキストスタッキング再定義：LLM対話による学習アプローチの一般化"
+  },
+  {
+    "id": "c2d7445b85c8d9b779118ed1b5f1c1e4",
+    "created_at": "2026-04-07T20:52:39Z",
+    "emoji": "🧭",
+    "description": "自分の価値観を「自-」で揃える：自律・自由・自立・自家・自発"
+  },
+  {
+    "id": "d7967937d93aa85e1d8d247ac61492e0",
+    "created_at": "2026-04-07T20:22:10Z",
+    "emoji": "📚",
+    "description": "集積と蓄積の違い：知的生産者としての使い分けと英語対応"
+  },
+  {
+    "id": "288a34f5a0836a7aa2798b11b08084b5",
+    "created_at": "2026-04-06T04:25:32Z",
+    "emoji": "💡",
+    "description": "AI時代のエンジニア組織：探索は個人、評価は集団の二段構え"
+  },
+  {
+    "id": "70d3e54301008f44d52caa8933ad948c",
+    "created_at": "2026-04-06T04:24:26Z",
+    "emoji": "📋",
+    "description": "AI時代の開発プロセス改革：探索ループと実行フェーズのエグゼクティブサマリー"
+  },
+  {
+    "id": "00436190c94b720f654df0b802fd827f",
+    "created_at": "2026-04-06T04:24:16Z",
+    "emoji": "🏗️",
+    "description": "AI時代のエンジニア組織における探索フェーズの導入提案書"
+  },
+  {
     "id": "1b0caee8953b30387df25fff59167813",
     "created_at": "2026-04-04T02:59:51Z",
     "emoji": "🏃",
