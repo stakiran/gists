@@ -1,5 +1,113 @@
 [
   {
+    "id": "e4ab10773dafd3876d712873256840a2",
+    "created_at": "2026-04-14T08:57:39Z",
+    "emoji": "📅",
+    "description": "12 Week Year要約：年単位思考をやめ12週間サイクルで実行を回す仕組み"
+  },
+  {
+    "id": "b6034c06c09cba8b3e447d68b7952ac6",
+    "created_at": "2026-04-14T08:30:28Z",
+    "emoji": "🎯",
+    "description": "Agile Results理解メモ：Rule of 3で日・週・月・年の成果を定めるメソッド"
+  },
+  {
+    "id": "cbfece909b2e273ea240c096b0b35ff0",
+    "created_at": "2026-04-14T07:07:39Z",
+    "emoji": "🧠",
+    "description": "GTDのレビューをAIに委譲して軽くできる上位メソッドの構想"
+  },
+  {
+    "id": "87da069826da5686378d4c32ee60223e",
+    "created_at": "2026-04-14T07:02:27Z",
+    "emoji": "📋",
+    "description": "GTD後継としてのAI前提プレーンテキスト生産性メソッド調査報告"
+  },
+  {
+    "id": "57338ab9a7500204d39f0c5ffb67ec97",
+    "created_at": "2026-04-14T06:57:41Z",
+    "emoji": "🔄",
+    "description": "GTDの後継候補をメソッドとして捉え直す：ツールではなく中心原理に注目"
+  },
+  {
+    "id": "46c6836e460d9d6546c860b9981ebced",
+    "created_at": "2026-04-13T20:35:11Z",
+    "emoji": "💬",
+    "description": "クローズドな匿名×非同期×AI補助による組織内発散基盤の構想"
+  },
+  {
+    "id": "e5567a3b89cddbc37ceae23903cc96bd",
+    "created_at": "2026-04-12T06:52:54Z",
+    "emoji": "🏢",
+    "description": "国産AI開発の新会社をめぐる論点整理：日本的組織文化と探索小集団"
+  },
+  {
+    "id": "90cea24c9f93d6f8c9b183c470767af7",
+    "created_at": "2026-04-12T03:10:51Z",
+    "emoji": "📜",
+    "description": "scriptyの可能性と判断尊厳：台本的であることへの抵抗を概念化"
+  },
+  {
+    "id": "04e5cbae7d262fe93910f9337b716b0f",
+    "created_at": "2026-04-12T03:00:46Z",
+    "emoji": "🎭",
+    "description": "scripty：台本的であるというメンタルモデルの定義と分析"
+  },
+  {
+    "id": "220ac351cc5d2ac7861a82fa1ca6832d",
+    "created_at": "2026-04-12T02:44:49Z",
+    "emoji": "🧩",
+    "description": "thinkLetを一つ完成させるために何を書くか：構成要素と記述手順"
+  },
+  {
+    "id": "a4d2acc594c9cc6a9d7d7a17130554ad",
+    "created_at": "2026-04-12T02:26:40Z",
+    "emoji": "🔬",
+    "description": "Kolfschoten et al. (2006) 読解メモ：thinkLet概念モデルの再定義"
+  },
+  {
+    "id": "4527e39fb19ba6d663b0bd08e532f53d",
+    "created_at": "2026-04-12T02:16:06Z",
+    "emoji": "🤝",
+    "description": "Kolfschoten & de Vreede (2007) 読解メモ：Collaboration Engineeringの設計手順"
+  },
+  {
+    "id": "3d82df2869498c9190eeee63a23b3976",
+    "created_at": "2026-04-11T07:51:46Z",
+    "emoji": "🧘",
+    "description": "コンテキストスイッチ時にネットサーフィンを避けるべきか（直感モデル版）"
+  },
+  {
+    "id": "7e3d66629c127c1cba66e48b5e60e268",
+    "created_at": "2026-04-11T07:45:58Z",
+    "emoji": "📖",
+    "description": "コンテキストスイッチング時のネットサーフィン回避に関する理論的調査"
+  },
+  {
+    "id": "5cc439023571c37053cbbcf517bd67f5",
+    "created_at": "2026-04-10T20:39:06Z",
+    "emoji": "💾",
+    "description": "Claude Codeスキル：会話をMarkdownファイルとして保存するmmコマンド"
+  },
+  {
+    "id": "01edb9ce8e32b5d0a45e3ee6435f9ece",
+    "created_at": "2026-04-10T20:38:02Z",
+    "emoji": "⚙️",
+    "description": "Multicaの全体像とエージェント基盤に関する議論：汎用タスク管理への拡張"
+  },
+  {
+    "id": "7d7a97f3964625e6d2268500b85f0bbd",
+    "created_at": "2026-04-10T20:20:52Z",
+    "emoji": "🤖",
+    "description": "Multicaに関する議論：AIエージェントをファーストクラスに扱うタスク管理"
+  },
+  {
+    "id": "c16f2840b1722e527a495ab946f882e6",
+    "created_at": "2026-04-10T09:32:43Z",
+    "emoji": "👨‍👩‍👧",
+    "description": "家族の多様性について：独身者を含む多様な生活単位の尊重"
+  },
+  {
     "id": "3dc84d0aafdb89d8f42a6b94b43f1a5b",
     "created_at": "2026-04-09T21:16:09Z",
     "emoji": "🤖",
