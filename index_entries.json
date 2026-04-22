@@ -1,5 +1,197 @@
 [
   {
+    "id": "330df365ac1e9c7ba9f5d58165fef5e1",
+    "created_at": "2026-04-22T07:52:33Z",
+    "emoji": "💍",
+    "description": "既婚者層の同質性がイノベーションを阻害するという仮説を議題化"
+  },
+  {
+    "id": "1279ff9373d5b7dff1a7b2d195ad5d04",
+    "created_at": "2026-04-22T07:47:46Z",
+    "emoji": "👥",
+    "description": "管理職層の既婚者偏重を「既婚の単一性」という見過ごされた多様性軸として論じる"
+  },
+  {
+    "id": "566a93b5ddd0af4f4fd5139b0457684c",
+    "created_at": "2026-04-22T05:17:06Z",
+    "emoji": "🧪",
+    "description": "著作権侵害を回避するクリーンルーム設計の歴史と現代的課題"
+  },
+  {
+    "id": "3ff2d260ee286c6be2152a2abda183f1",
+    "created_at": "2026-04-22T02:51:23Z",
+    "emoji": "🎭",
+    "description": "GitHub プロフィール「盛り」現象とアテンション経済の構造分析"
+  },
+  {
+    "id": "a9ff91845f128bb5e1729669bdf8f698",
+    "created_at": "2026-04-21T08:01:59Z",
+    "emoji": "🧠",
+    "description": "WAIS-IV で FSIQ 96 だった結果の解釈と「運用込みで引き出せる強さ」の自己分析"
+  },
+  {
+    "id": "480b23992a44716ac5be69ad5dca1696",
+    "created_at": "2026-04-21T07:48:52Z",
+    "emoji": "🔥",
+    "description": "BBQに茶道・華道のような「道」はあるかという議論"
+  },
+  {
+    "id": "818d149f85aed53736d5c0c804c53cba",
+    "created_at": "2026-04-18T20:37:59Z",
+    "emoji": "📚",
+    "description": "davidkimai/Context-Engineering リポジトリと3層モデルの対応関係"
+  },
+  {
+    "id": "fedbc33419b50544e34f2055dadca1cf",
+    "created_at": "2026-04-18T05:56:48Z",
+    "emoji": "✍️",
+    "description": "哲学用語で書く人と実務抽象化する人の文体の違いに関する対話"
+  },
+  {
+    "id": "db5a8b77e055e2074de235a13f90b0a3",
+    "created_at": "2026-04-18T02:41:35Z",
+    "emoji": "🏗️",
+    "description": "Window/Agent/Human の3層で捉えるコンテキストモデル詳細版"
+  },
+  {
+    "id": "d72443c69cb18f678fb81439430fae76",
+    "created_at": "2026-04-18T02:37:57Z",
+    "emoji": "📐",
+    "description": "Window/Agent/Human の3層で捉えるコンテキストモデル短縮版"
+  },
+  {
+    "id": "7bb45fe436fb573b055cb8c9d7e29fc3",
+    "created_at": "2026-04-18T02:25:33Z",
+    "emoji": "🧩",
+    "description": "コンテキストを目的に照らした解釈を経た情報の束として再定義"
+  },
+  {
+    "id": "8ad716d67b22986a0fc34052ed64ca8c",
+    "created_at": "2026-04-18T02:19:26Z",
+    "emoji": "☁️",
+    "description": "Context as a Service を AI向け/人間向けの2系統に整理"
+  },
+  {
+    "id": "94b3f5fa09bd3a369ddea38792edf44b",
+    "created_at": "2026-04-17T08:43:42Z",
+    "emoji": "🕸️",
+    "description": "知識グラフ型 AI メモリ Cognee の仕組みと適用領域"
+  },
+  {
+    "id": "25ebb44fdd66c42d1f69cf48e4ff3300",
+    "created_at": "2026-04-16T09:53:37Z",
+    "emoji": "📑",
+    "description": "Firefox HTTP/3 と GitHub 不具合の根拠資料集"
+  },
+  {
+    "id": "e5409da1cfab229b265f54c45b1b69bb",
+    "created_at": "2026-04-16T09:52:24Z",
+    "emoji": "🦊",
+    "description": "Firefox で GitHub のスタイルが崩れる HTTP/3 起因の不具合と対処"
+  },
+  {
+    "id": "0732f8eb38c26efe4754add8a36c3073",
+    "created_at": "2026-04-16T08:01:01Z",
+    "emoji": "🕊️",
+    "description": "過小要求としてのホワイトハラスメントと社内ニートの論点整理"
+  },
+  {
+    "id": "f5a4c0ef8e46d67187c6fb397c737c94",
+    "created_at": "2026-04-16T07:54:36Z",
+    "emoji": "🏷️",
+    "description": "「司法」vs「公衆安全」に見る問題定義と命名の重要性"
+  },
+  {
+    "id": "8a6d245491ff9cce2a21f89c2b3e2ee4",
+    "created_at": "2026-04-16T06:46:30Z",
+    "emoji": "🧠",
+    "description": "LLM Wiki 構想への違和感と知的生産の3層分離モデル"
+  },
+  {
+    "id": "36ae53566405719cd626c0a4ca0328fc",
+    "created_at": "2026-04-16T06:31:20Z",
+    "emoji": "📝",
+    "description": "LLM ウィキに書く主導権を委ねることへの反論と役割分担"
+  },
+  {
+    "id": "65c1dd78a05b98e5b6027ba9ee147717",
+    "created_at": "2026-04-15T20:17:25Z",
+    "emoji": "🚨",
+    "description": "Google 解雇経験者が語る「レイオフ前の3つの危険信号」の推測"
+  },
+  {
+    "id": "63fc6e6cccace31bb7ee0fffaddc1f5a",
+    "created_at": "2026-04-15T09:13:32Z",
+    "emoji": "📒",
+    "description": "ADR を軽量化した共有意思決定ログ Shared Decision Records の構想"
+  },
+  {
+    "id": "ce7c6dcefa2af9e27f42cb62e87fc01e",
+    "created_at": "2026-04-15T09:09:07Z",
+    "emoji": "📊",
+    "description": "Shared Decision Records の既存概念比較と実装パターン調査報告"
+  },
+  {
+    "id": "184cb4458136afd943ac2f936277e80f",
+    "created_at": "2026-04-15T08:44:35Z",
+    "emoji": "🏛️",
+    "description": "ADR における Architecture / Decision / Record の意味の整理"
+  },
+  {
+    "id": "6b2bf842a99305579c224f61249f47e8",
+    "created_at": "2026-04-15T08:39:29Z",
+    "emoji": "📖",
+    "description": "ADR 公式リポジトリ README の中見出しごとの要約"
+  },
+  {
+    "id": "8a89d9cf98668918bd63b4f0dad04337",
+    "created_at": "2026-04-14T23:25:14Z",
+    "emoji": "🔁",
+    "description": "Ralph パターンとループ内 LLM コール数(single/multi/hybrid)の設計軸"
+  },
+  {
+    "id": "83ac0653a47080feba5395a159041cb7",
+    "created_at": "2026-04-14T20:45:16Z",
+    "emoji": "📋",
+    "description": "言語化コンサルモデルの弱点対処と適用条件の明文化"
+  },
+  {
+    "id": "d59e9e1c4761e147153bb9e85256e92f",
+    "created_at": "2026-04-14T20:36:01Z",
+    "emoji": "💼",
+    "description": "コンサル類型整理と AI 時代の生存/淘汰、および新しいモデル案"
+  },
+  {
+    "id": "6a6ff027338fe2ab843e2b412ba558d1",
+    "created_at": "2026-04-14T20:13:14Z",
+    "emoji": "🧵",
+    "description": "Amp の永続スレッド機構とスレッド共有モデルの実用性議論"
+  },
+  {
+    "id": "48efe2f29f59f6f382286591a0b86049",
+    "created_at": "2026-04-14T20:07:06Z",
+    "emoji": "⚙️",
+    "description": "Ralph の 1-story ワークフローと LLM 呼び出しの内部ロジック"
+  },
+  {
+    "id": "e7ffc8acca0a35ced85e7f5df745f78b",
+    "created_at": "2026-04-14T20:03:07Z",
+    "emoji": "🤖",
+    "description": "Ralph に PRD を与えて自律開発させる仕組みとストーリー分割の要点"
+  },
+  {
+    "id": "bda937ec1558e5cef4858123740a7627",
+    "created_at": "2026-04-14T10:01:58Z",
+    "emoji": "🧹",
+    "description": "「クリーンコード」を認知負荷と技術的負債に分解した議論"
+  },
+  {
+    "id": "a68a9d2d3a3d903a23dcea02cfc4bb0d",
+    "created_at": "2026-04-14T09:36:34Z",
+    "emoji": "📚",
+    "description": "著者の個人 wiki neoterizer を調査し概念体系の可能性を考察"
+  },
+  {
     "id": "e4ab10773dafd3876d712873256840a2",
     "created_at": "2026-04-14T08:57:39Z",
     "emoji": "📅",
